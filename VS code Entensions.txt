@@ -1,0 +1,19 @@
+Vs Extension Install for beginner web-developer
+
+1.Auto-Close Tag
+2.Bracket Pair Colorizer
+3.Prettier
+4.Monokai Theme-(https://youtu.be/C3xl8Nah1Eo)
+5.Path Intellisense
+6.Javascript ES6 Code Snippets
+7.Auto Rename Tag
+8.Better Comments
+9.Live Server 
+
+
+
+
+Shortcut:
+
+1. Comment: ctrl + / 
+2. Empty comment : shift + alt + A
