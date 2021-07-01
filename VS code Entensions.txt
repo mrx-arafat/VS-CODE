@@ -2,7 +2,7 @@ Vs Extension Install for beginner web-developer
 
 1.Auto-Close Tag
 2.Bracket Pair Colorizer
-3.Prettier
+3.Prettier-(https://youtu.be/dKjsZVlyQIE)
 4.Monokai Theme-(https://youtu.be/C3xl8Nah1Eo)
 5.Path Intellisense
 6.Javascript ES6 Code Snippets
