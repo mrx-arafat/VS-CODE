@@ -18,5 +18,5 @@ Shortcut:
 1. Comment: ctrl + / 
 2. Empty comment : shift + alt + A
 3. Copy Down : alt + shift + down
-4. Emmet shoetcut :  .container>.box*3>h1{hello box-$}+img[src="images/"]+p{lorem100}   
+4. Emmet shortcut :  .container>.box*3>h1{hello box-$}+img[src="images/"]+p{lorem100}   
    (3 boxs div in a container , each box has  has a h1, img and p tah with 100 word )
