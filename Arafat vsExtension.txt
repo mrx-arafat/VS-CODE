@@ -9,6 +9,7 @@ Vs Extension Install for beginner web-developer
 7.Auto Rename Tag
 8.Better Comments
 9.Live Server 
+10. Code Runner
 
 
 
