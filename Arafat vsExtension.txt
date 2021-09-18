@@ -10,6 +10,8 @@ Vs Extension Install for beginner web-developer
 8.Better Comments
 9.Live Server 
 10. Code Runner
+11. Learn With Sumit theme 
+12. For React Emmet : https://medium.com/@eshwaren/enable-emmet-support-for-jsx-in-visual-studio-code-react-f1f5dfe8809c
 
 
 
