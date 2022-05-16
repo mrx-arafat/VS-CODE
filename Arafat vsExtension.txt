@@ -13,6 +13,9 @@ Vs Extension Install for beginner web-developer
 11. Learn With Sumit theme 
 12. For React Emmet : https://medium.com/@eshwaren/enable-emmet-support-for-jsx-in-visual-studio-code-react-f1f5dfe8809c
 13. React Extension Pack -By Rajbir Jawanda
+14. Image Preview
+15. Code Spell Checker
+16. Color Highlight
 
 
 
